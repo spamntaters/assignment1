@@ -1,12 +1,6 @@
 #header {
-  background-color: blue;
+  height: auto;
 }
-#userNav {
-  background-color: purple;
-}
-#nav {
-  background-color: green;
-}
-#main {
-  background-color: blueviolet;
+main{
+  height: fill;
 }
